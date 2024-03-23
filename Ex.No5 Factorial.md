@@ -24,7 +24,8 @@ factorial(A,B) :-
 
 ### Output:
 
-![image](https://github.com/Catty12384/AI-Lab-Record/assets/120629225/52fc04c8-de41-4202-abb5-5b99265d2902)
+![image](https://github.com/mugil24/AI_Lab_2023-24/assets/145928968/e885681c-cd97-4fb6-a606-6c814ae08d7a)
+
 
 
 ### Result:
