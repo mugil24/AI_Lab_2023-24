@@ -20,6 +20,9 @@ To  write  a logic program  to solve Towers of Hanoi problem  using SWI-PROLOG.
 ### Output:
 
 
+![Screenshot 2024-03-18 181340](https://github.com/mugil24/AI_Lab_2023-24/assets/145928968/25f2463f-9e75-4a44-a876-36478909c583)
+
+
 
 ### Result:
 Thus the solution of Towers of Hanoi problem was found by logic programming.
